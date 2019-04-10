@@ -1,0 +1,106 @@
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.exe.config
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.exe
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.pdb
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csprojAssemblyReference.cache
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\obj\Debug\MainWindow.g.cs
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\obj\Debug\App.g.cs
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres_MarkupCompile.cache
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres_MarkupCompile.lref
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\obj\Debug\MainWindow.baml
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.g.resources
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.Properties.Resources.resources
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.GenerateResource.cache
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.CoreCompileInputs.cache
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.exe
+C:\Users\Robbie\source\repos\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.pdb
+E:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.exe.config
+E:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.exe
+E:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.pdb
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csprojAssemblyReference.cache
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\MainWindow.g.cs
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\App.g.cs
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres_MarkupCompile.cache
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres_MarkupCompile.lref
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\MainWindow.baml
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.g.resources
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.Properties.Resources.resources
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.GenerateResource.cache
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.CoreCompileInputs.cache
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.exe
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.pdb
+G:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.exe.config
+G:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.exe
+G:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.pdb
+G:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\MainWindow.g.cs
+G:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\App.g.cs
+G:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres_MarkupCompile.cache
+G:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres_MarkupCompile.lref
+G:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\MainWindow.baml
+G:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.g.resources
+G:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.Properties.Resources.resources
+G:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.GenerateResource.cache
+G:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.CoreCompileInputs.cache
+G:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.exe
+G:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.pdb
+G:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csprojAssemblyReference.cache
+F:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.exe.config
+F:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.exe
+F:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.pdb
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csprojAssemblyReference.cache
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\MainWindow.g.cs
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\App.g.cs
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres_MarkupCompile.cache
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres_MarkupCompile.lref
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\MainWindow.baml
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.g.resources
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.Properties.Resources.resources
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.GenerateResource.cache
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.CoreCompileInputs.cache
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.exe
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.pdb
+F:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\Newtonsoft.Json.dll
+F:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\Newtonsoft.Json.pdb
+F:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\Newtonsoft.Json.xml
+F:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.CopyComplete
+E:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\Newtonsoft.Json.dll
+E:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\Newtonsoft.Json.pdb
+E:\Work\Low Level\SetupSpheres\SetupSpheres\bin\Debug\Newtonsoft.Json.xml
+E:\Work\Low Level\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.CopyComplete
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.exe.config
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.exe
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.pdb
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\bin\Debug\Newtonsoft.Json.dll
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\bin\Debug\Newtonsoft.Json.pdb
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\bin\Debug\Newtonsoft.Json.xml
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csprojAssemblyReference.cache
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\MainWindow.g.cs
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\App.g.cs
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres_MarkupCompile.cache
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres_MarkupCompile.lref
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\MainWindow.baml
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.g.resources
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.Properties.Resources.resources
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.GenerateResource.cache
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.CoreCompileInputs.cache
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.CopyComplete
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.exe
+E:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.pdb
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.exe.config
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.exe
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\bin\Debug\SetupSpheres.pdb
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\bin\Debug\Newtonsoft.Json.dll
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\bin\Debug\Newtonsoft.Json.pdb
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\bin\Debug\Newtonsoft.Json.xml
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csprojAssemblyReference.cache
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\MainWindow.g.cs
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\App.g.cs
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres_MarkupCompile.cache
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres_MarkupCompile.lref
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\MainWindow.baml
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.g.resources
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.Properties.Resources.resources
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.GenerateResource.cache
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.CoreCompileInputs.cache
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.csproj.CopyComplete
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.exe
+F:\Work\Low Level\Low Level Assignment\SetupSpheres\SetupSpheres\obj\Debug\SetupSpheres.pdb

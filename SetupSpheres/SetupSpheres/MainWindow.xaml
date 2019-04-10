@@ -1,0 +1,55 @@
+﻿<Window x:Class="SetupSpheres.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SetupSpheres"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Initialized="Window_Initialized" SizeChanged="Window_SizeChanged">
+    <Grid x:Name="mainGrid" Background="#FF303030">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="408*"/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="92*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="35*"/>
+        </Grid.ColumnDefinitions>
+
+        <DockPanel x:Name="MainPanel" LastChildFill="True" Margin="10,4,1,159" Background="#FF7C7C7C" Grid.Row="1"/>
+        <StackPanel Grid.Column="1" Margin="11,10,10,121" Orientation="Vertical" Grid.Row="1" Background="#FF343434" Grid.ColumnSpan="2">
+            <Label x:Name="LblXPos" Content="X Pos:" VerticalAlignment="Top" Margin="10,0,83,0"/>
+            <Slider x:Name="XSlider" Margin="10,0,5,0" VerticalAlignment="Top" ValueChanged="XSlider_ValueChanged" Minimum="-5" Maximum="5" SmallChange="0.01"/>
+            <Label x:Name="LblYPos" Content="Y Pos:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Margin="10,0,0,0"/>
+            <Slider x:Name="YSlider" VerticalAlignment="Top" ValueChanged="YSlider_ValueChanged" Margin="10,0,6,0" Minimum="-5" Maximum="5" SmallChange="0.01"/>
+            <Label x:Name="LblZPos" Content="Z Pos:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="146" Margin="10,0,0,0"/>
+            <Slider x:Name="ZSlider" VerticalAlignment="Top" ValueChanged="ZSlider_ValueChanged" Margin="10,0,6,0" Minimum="-5" Maximum="5" SmallChange="0.01"/>
+            <DockPanel Height="1" LastChildFill="False" Background="#3F000000" Margin="0,10,0,0"/>
+            <Label x:Name="LblScale" Content="Scale:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="110" Margin="10,0,0,0"/>
+            <Slider x:Name="ScaleSlider" VerticalAlignment="Top" ValueChanged="ScaleSlider_ValueChanged" Margin="10,0,6,0" Maximum="5" SmallChange="0.01" Value="1"/>
+
+        </StackPanel>
+        <ListBox x:Name="SphereList" Grid.Column="1" Margin="11,254,9,10" Grid.Row="1" Background="#FF303030" SelectionChanged="SphereList_SelectionChanged" Grid.ColumnSpan="2"/>
+        <Button x:Name="BtnAddSphere" Content="+" Height="26" Margin="0,223,40,0" FontSize="16" VerticalAlignment="Top" Grid.Column="2" Grid.Row="1" Click="BtnAddSphere_Click" Background="#FF3C3C3C" HorizontalAlignment="Right" Width="25"/>
+        <Button x:Name="BtnDeleteSphere" Content="-" Height="26" Margin="0,223,10,0" FontSize="16" VerticalAlignment="Top" Grid.Column="2" Grid.Row="1" Click="BtnDeleteSphere_Click" Background="#FF3C3C3C" HorizontalAlignment="Right" Width="25"/>
+        <Label Content="Colour:" Grid.Column="1" HorizontalAlignment="Left" Margin="11,217,0,0" Grid.Row="1" VerticalAlignment="Top" Width="49" Height="26" Grid.ColumnSpan="2"/>
+        <DockPanel x:Name="ColorShowPanel" Grid.Column="2" HorizontalAlignment="Left" Height="26" LastChildFill="False" Margin="30,217,0,0" Grid.Row="1" VerticalAlignment="Top" Width="26" Background="#FF208F00"/>
+        <DockPanel Grid.Column="1" HorizontalAlignment="Left" Height="37" LastChildFill="False" Margin="11,212,0,0" Grid.Row="1" VerticalAlignment="Top" Width="85" Background="#FF323232" Panel.ZIndex="-1" Grid.ColumnSpan="2"/>
+        <Button x:Name="BtnChangeColour" Content="Change" Grid.Column="2" HorizontalAlignment="Left" Margin="61,217,0,0" Grid.Row="1" VerticalAlignment="Top" Width="47" Height="26" Background="#FF3C3C3C" Click="BtnChangeColour_Click"/>
+        <DockPanel x:Name="TimelineBACKPanel" LastChildFill="False" Margin="10,0,0,10" Grid.Row="1" Background="#FF232323" Height="121" VerticalAlignment="Bottom"/>
+        <DockPanel x:Name="TimelinePanel" LastChildFill="False" Margin="12,0,0,12" Grid.Row="1" Background="#FF444444" Height="103" VerticalAlignment="Bottom" Width="540" MouseDown="TimelinePanel_MouseDown">
+
+        </DockPanel>
+        <Slider x:Name="TimelineSlider" Margin="19,0,9,115" Grid.Row="1" Height="14" VerticalAlignment="Bottom" Maximum="100" Value="1" Minimum="1" SmallChange="1" ValueChanged="TimelineSlider_ValueChanged" Background="{x:Null}"/>
+        <Button x:Name="BtnKeyframeToggle" Content="Keyframe" Margin="0,0,1,134" Grid.Row="1" Background="#FF3C3C3C" HorizontalAlignment="Right" Width="57" Height="20" VerticalAlignment="Bottom" Click="BtnKeyframeToggle_Click"/>
+        <Button x:Name="BtnTimelinePlay" Content="Play" Margin="0,0,78,134" Grid.Row="1" Background="#FF3C3C3C" HorizontalAlignment="Right" Width="40" Height="20" VerticalAlignment="Bottom" Click="BtnTimelinePlay_Click"/>
+        <Button x:Name="BtnExport" Content="Export" Margin="12,0,0,134" Grid.Row="1" Background="#FF3C3C3C" HorizontalAlignment="Left" Width="55" Height="20" VerticalAlignment="Bottom" Click="BtnExport_Click"/>
+        <TextBox x:Name="NumLabel" HorizontalAlignment="Left" Margin="10,0,0,129" Grid.Row="1" TextWrapping="Wrap" Text="1" Width="30" IsEnabled="False" Height="19" VerticalAlignment="Bottom" TextAlignment="Center"/>
+
+
+
+
+    </Grid>
+</Window>

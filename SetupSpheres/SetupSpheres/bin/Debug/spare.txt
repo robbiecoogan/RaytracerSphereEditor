@@ -1,0 +1,75 @@
+            int counter = 0;
+            //read through file until EOF to grab all indices
+            while (!sr.EndOfStream)
+            {
+                lineInfo = sr.ReadLine();
+
+                if (lineInfo[0] == 'f')//if this line is an index list
+                {
+                    counter++;
+                    int lastIndex = 2;
+                    int numCharSize = 0;//size to ignore when grabbing data, as the line number is printed in the OBJ
+
+                    int numElements = 0;
+                    int[] subIndices = new int[4]; ;//enough room for 4 indices, but there may be 3.
+                    for (int i = 0; i < lineInfo.Length; i++)
+                    {
+                        numCharSize = getnumCharSize(counter);
+
+                        //find slash
+                        if (i >= 3 && lineInfo[i] == '/')
+                        {
+                            int newCounter = 0;
+                            while (lineInfo[i + newCounter] != ' ')//find the next space
+                            {
+                                if (i + newCounter == lineInfo.Length - 1) break;
+                                newCounter++;
+                            }
+                            if (lineInfo[i + newCounter] == ' ')
+                            {
+                                //int getNum = Convert.ToInt32(lineInfo.Substring(i + 2, (newCounter) - 1));
+                                //numCharSize = getnumCharSize(getNum);
+                                numCharSize = newCounter;
+                                i = i + newCounter;
+                            }
+                            else if (i + newCounter == lineInfo.Length - 1)
+                            {
+                                //int getNum = Convert.ToInt32(lineInfo.Substring(i + 2, (newCounter) - 1));
+                                //numCharSize = getnumCharSize(getNum);
+                                numCharSize = newCounter;
+                                i = lineInfo.Length - 1;
+                            }
+
+                            if (i < lineInfo.Length - 1)
+                                subIndices[numElements] = Convert.ToInt32(lineInfo.Substring(lastIndex, (i - numCharSize) - lastIndex - 2));
+                            else
+                                subIndices[numElements] = Convert.ToInt32(lineInfo.Substring(lastIndex, (i - numCharSize) - lastIndex - 1));
+                            numElements++;
+                            lastIndex = i;
+
+                        }
+
+                        if (i == lineInfo.Length-1)//if the last element has been checked
+                        {
+                            //Count how many elements have been found, if it's 4, we need to make 2 triangles, if 3, it'll be a normal
+                            if (numElements == 4)
+                            {
+                                indices.Add(subIndices[0]-1);
+                                indices.Add(subIndices[1]-1);
+                                indices.Add(subIndices[3]-1);
+                                indices.Add(subIndices[1]-1);
+                                indices.Add(subIndices[2]-1);
+                                indices.Add(subIndices[3]-1);
+                            }
+                            else//if there are 3 elements
+                            {
+                                indices.Add(subIndices[0] - 1);
+                                indices.Add(subIndices[1] - 1);
+                                indices.Add(subIndices[2] - 1);
+                            }
+
+                           
+                        }
+                    }
+                }
+            }
